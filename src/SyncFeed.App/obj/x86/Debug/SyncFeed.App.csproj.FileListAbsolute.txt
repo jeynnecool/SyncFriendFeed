@@ -1,0 +1,10 @@
+C:\vsworkspace\SyncFeed\src\SyncFeed.App\bin\Debug\SyncFeed.App.exe.config
+C:\vsworkspace\SyncFeed\src\SyncFeed.App\bin\Debug\SyncFeed.App.exe
+C:\vsworkspace\SyncFeed\src\SyncFeed.App\bin\Debug\SyncFeed.App.pdb
+C:\vsworkspace\SyncFeed\src\SyncFeed.App\obj\x86\Debug\SyncFeed.App.exe
+C:\vsworkspace\SyncFeed\src\SyncFeed.App\obj\x86\Debug\SyncFeed.App.pdb
+C:\GitHub\SyncFriendFeed\src\SyncFeed.App\bin\Debug\SyncFeed.App.exe.config
+C:\GitHub\SyncFriendFeed\src\SyncFeed.App\obj\x86\Debug\SyncFeed.App.exe
+C:\GitHub\SyncFriendFeed\src\SyncFeed.App\obj\x86\Debug\SyncFeed.App.pdb
+C:\GitHub\SyncFriendFeed\src\SyncFeed.App\bin\Debug\SyncFeed.App.exe
+C:\GitHub\SyncFriendFeed\src\SyncFeed.App\bin\Debug\SyncFeed.App.pdb
